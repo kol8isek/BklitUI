@@ -1,0 +1,2 @@
+# Vendored Node.js runtime: store byte-for-byte, no line-ending conversion
+.tools/** -text
